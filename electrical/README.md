@@ -28,3 +28,8 @@
 |        1012         |    1     | Water level sensor                                 | Adafruit                    | 3397                                                                 | Digi-Key    | [1528-2352-ND](https://www.digikey.ca/en/products/detail/adafruit-industries-llc/3397/7566144)                                                          |
 |        1013         |    1     | Transistor, NPN                                    | ON Semiconductor            | TIP120 or TIP120TU                                                   | Digi-Key    | [TIP120TUFS-ND](https://www.digikey.ca/en/products/detail/onsemi/TIP120TU/1052473)                                                                      |
 |        1014         |    1     | Diode                                              | Comchip                     | 1N4001                                                               | Digi-Key    | [641-2010-ND](https://www.digikey.ca/en/products/detail/comchip-technology/1N4001B-G/3307920)                                                           |
+
+TODO:
+
+- Choose an AC-DC for 12 VDC output (pump and solenoid)
+- Controls circuits for the water pump (transistors / FETs / relays / diodes)
